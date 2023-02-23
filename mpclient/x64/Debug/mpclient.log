@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library D:\repos\mpclient\x64\Debug\mpclient.lib and object D:\repos\mpclient\x64\Debug\mpclient.exp
+  mpclient.vcxproj -> D:\repos\mpclient\x64\Debug\mpclient.dll
